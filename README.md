@@ -1,0 +1,1 @@
+This GitHub repository is a space where I can share the coding projects I have worked on outside of class.
